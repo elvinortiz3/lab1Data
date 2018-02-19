@@ -7,7 +7,7 @@ public class Main {
 		int r = 3;
 		
 		double areaOfTheCircle = Math.PI * (r*r);
-		System.out.println("The area of a circle is " +areaOfTheCircle);
+		System.out.println("The area of a circle is " +areaOfTheCircle/2);
 	}
 
 }
